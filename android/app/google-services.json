@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1051373821760",
+    "firebase_url": "https://linux-terminal-8218a.firebaseio.com",
+    "project_id": "linux-terminal-8218a",
+    "storage_bucket": "linux-terminal-8218a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051373821760:android:efd12e9410f30599e124a5",
+        "android_client_info": {
+          "package_name": "com.example.linux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051373821760-ke0nn8ag6tdc6rs72u9nmpe2espha8cc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ67W--x8Aak0jriQDXKNp-WuejgESKZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051373821760-ke0nn8ag6tdc6rs72u9nmpe2espha8cc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
